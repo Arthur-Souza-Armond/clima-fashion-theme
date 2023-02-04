@@ -1,0 +1,14 @@
+#header-contents{
+    display: flex;
+    flex-direction: row;
+}
+#header-contents #header-menu{
+    width: 35%;
+}
+#header-contents #logotipo{
+    width: 35%;
+}
+#header-contents #logotipo img{
+    width: 100%;
+    height: 50px;
+}
