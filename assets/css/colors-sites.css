@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant&family=Source+Sans+Pro&display=swap');
+
+body{
+    padding:0;
+    margin:0;
+}
+
+:root{
+    --globalColor1: #AF0013;
+    --globalColor2: #1D3557;
+    --globalColor3: #6F8D81;
+    --globalColor4: #03A5D6;
+    --globalColor5: #F2F2F2;
+    --globalTittleFont: 'Cormorant','serif';
+    --globalTextFont: 'Source Sans Pro','sans-serif'
+}
